@@ -45,7 +45,7 @@ This is the final step of the analysis where the possible itineraries are displa
 <h4><p align=center> Destination Markers for One of the Suggested Travel Itinerary Map</p></h4>
 <p align=center><kbd><img width="1680" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/90424752/144379893-564c2dff-f986-4c10-af4d-57d8445d43a8.png"></kbd></p>
 
-<h4>Limitation:</h4>
+<h4>Limitations:</h4>
 
 - The limitation for travel directions_layer is that, it only shows the travel route for 'DRIVING', 'BICYCLING' or 'WALKING' mode of transport. Waypoints are not supported when the travel mode is 'TRANSIT' (this is a limitation of the Google Maps directions service).
 - The user preferance is limited to weather only. The parameters such as trip duration, country of preference, mode of transport between the cities, accommodation preference are not included in this analysis.

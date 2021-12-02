@@ -8,6 +8,7 @@ Technologies & Software: Jupyter Notebook, Pandas, CitiPy, Python Requests, APIs
 
 <h3> Analysis Overview: </h3>
 The Analysis for this project requires a long series of operations. For simplicity and functionality purposes, the analysis is broken into three parts. 
+
 - Creation of Weather Database
 - Searching for datapoints based on User Criteria
 - Creation of Itinirary & Travel map

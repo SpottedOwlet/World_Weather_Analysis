@@ -49,4 +49,4 @@ This is the final step of the analysis where the possible itineraries are displa
 
 - The limitation for travel directions_layer is that, it only shows the travel route for 'DRIVING', 'BICYCLING' or 'WALKING' mode of transport. Waypoints are not supported when the travel mode is 'TRANSIT' (this is a limitation of the Google Maps directions service).
 - The user preferance is limited to weather only. The parameters such as trip duration, country of preference, mode of transport between the cities, accommodation preference are not included in this analysis.
-- Not all possible city options are included due to algorithm used to generate latitudes and logitudes. The analysis could be modified to include the cities of interest and then location, weather and accomodation data can be gathered as per city preference.
+- Not all possible city options are included in the dataframes, due to the kind of algorithm used to generate latitudes and logitudes. The analysis could be modified to include the cities of interest and then location, weather and accomodation data can be gathered as per city preference.
